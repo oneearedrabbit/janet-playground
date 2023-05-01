@@ -1,5 +1,3 @@
-(import http)
-(import spork/json)
 (import ./misc)
 
 (defn task2 [a]
